@@ -5,4 +5,4 @@
 - Made an image into a string so that I won't have to upload a softcopy of image that occupies space.
 
 ## *Click on the image below to turn it into a black and white pixel rain:*
-<a href="https://codepen.io/slowflash22/pen/dyVodpr"><img src="assasin_creed.jfif" alt="Edward Kenway image"></a>  
+<a href="https://codepen.io/slowflash22/pen/dyVodpr"><img src="assassin_creed.jfif" alt="Edward Kenway image"></a>  
